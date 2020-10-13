@@ -1,0 +1,19 @@
+{
+  "parser": "D:\\ui-team\\Стать senior прораммистом - курс\\excel-course\\node_modules\\babel-eslint",
+  "env": {
+    "es6": true,
+    "browser": true,
+    "node": true
+  },
+  "rules": {
+    "semi": "off",
+    "arrow-parens": "off",
+    "comma-dangle": "off",
+    "require-jsdoc": "off",
+    "linebreak-style": [
+      true,
+      "LF"
+    ]
+  },
+  "extends": ["eslint:recommended", "google"]
+}
